@@ -11,5 +11,5 @@ A clean, minimal boilerplate for Vite + React + TypeScript + Tailwind projects.
 ### 1. Clone this Repository
 
 ```bash
-git clone [https://github.com/barbosa64x/template-vite-react-ts-tailwind.git](https://github.com/barbosa64x/template-vite-react-ts-tailwind.git) your-project-name
+git clone https://github.com/barbosa64x/template-vite-react-ts-tailwind.git your-project-name
 ```
